@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<asset>
+		<name>Sword 001</name>
+		<author>HalfAway</author>
+		<file>sword_001.obd</file>
+		<category>items</category>
+		<transparent>false<transparent>
+	</asset>
+</catalog>
