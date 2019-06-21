@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<items>
+		<category name="Shields" folder="shields" />
+		<category name="Swords" folder="swords" />
+	</items>
+	<outfits />
+	<effects />
+	<missiles />
+</catalog>
