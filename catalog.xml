@@ -5,6 +5,8 @@
 		<category name="Swords" folder="swords" />
 	</items>
 	<outfits />
-	<effects />
+	<effects>
+		<category name="Vortices" folder="vortices" />
+	</effects>
 	<missiles />
 </catalog>

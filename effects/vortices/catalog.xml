@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<asset>
+		<name>Effect 001</name>
+		<author>Madarada</author>
+		<file>effect_001.obd</file>
+		<category>effects</category>
+		<transparent>false</transparent>
+	</asset>
+</catalog>
